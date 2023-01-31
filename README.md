@@ -4,10 +4,10 @@ AWS Cloud Development
 ![Tech Used](./assets/techused.png)
 ## Warm-up Week:
 1. [] - Cloud Warm Up Night: Toolkit of the MultiCloud & DevOps Professional - [Link](./pre-mon.md)
-2. 
-3. 
-4. 
-5. 
+2. t - Terraform w/ AWS
+3. w - Docker
+4. t - Kubernetes on Cloud
+5. f - Terraform w/ google cloud
 
 ## AWS Bootcamp:
 1. 
